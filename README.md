@@ -1,17 +1,17 @@
 # Go-Back-N Protocol Implementation with OMNeT++ and C++
-Overview
+## Overview
 
 * This repository contains the implementation of the Go-Back-N (GBN) protocol using OMNeT++ and C++. The Go-Back-N protocol is a sliding window protocol used for reliable communication in computer networks.
 
 * Applying all our knowledge in OOP to divide the project into sub-classes and applying SOLID principles in implementing it.
 
-Getting Started
-Prerequisites
+## Getting Started
+### Prerequisites
 
     OMNeT++ installed on your system.
     Basic knowledge of C++.
 
-Installation
+## Installation
 
     Clone this repository to your local machine:
 
@@ -25,7 +25,7 @@ Installation
 
     Run the simulation to observe the Go-Back-N protocol in action.
 
-Features
+## Features
 
     Go-Back-N Protocol Implementation: The core of the project is the implementation of the Go-Back-N protocol in C++ within the OMNeT++ simulation framework.
 
@@ -33,7 +33,7 @@ Features
 
     You can find the project requirement pdf in the repo, feel free to have a look.
 
-Usage
+## Usage
 
     Open the OMNeT++ project.
 
@@ -43,7 +43,7 @@ Usage
 
     Observe the simulation results and analyze the performance of the Go-Back-N protocol.
 
-License
+## License
 
 This project is licensed under the MIT License.
 Acknowledgments
@@ -52,7 +52,7 @@ Acknowledgments
 
     Special thanks to the OMNeT++ community for providing a powerful simulation framework.
 
-Contact
+## Contact
 
 For any inquiries or suggestions, please contact
 * Abdelaziz132001@gmail.com
