@@ -1,0 +1,4 @@
+out/
+.vscode
+*.log
+src/Networks_Project_dbg.exe
